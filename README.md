@@ -1,2 +1,2 @@
 # First file
-Jimmy is baga
+Jerry is a good teacher
